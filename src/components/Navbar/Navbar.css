@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono:wght@600&display=swap');
+
 * {
     box-sizing: border-box;
 }
@@ -19,6 +21,8 @@ body {
 .brand-title {
     font-size: 1.2rem;
     margin: .5rem;
+    color: white;
+    font-family: 'Sono', sans-serif;
 }
 
 .navbar-links {
@@ -35,15 +39,16 @@ body {
     list-style: none;
 }
 
-.navbar-links li a {
+.navbar-links li{
     display: block;
     text-decoration: none;
     color: white;
     padding: 1rem;
-    font-size: .9rem;
+    font-size: 1rem;
+    font-family: 'Sono', sans-serif;
 }
 
-.navbar-links li a:hover {
+.navbar-links li:hover {
     color: #482890;
     background-color: white;
 }
