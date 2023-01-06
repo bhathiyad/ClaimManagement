@@ -1,0 +1,35 @@
+.mini-footer {
+    background:#482890;
+    text-align:center;
+    padding:16px 0;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+   }
+.mini-footer p {
+margin:0;
+line-height:26px;
+font-size:15px;
+color:#999
+}
+.mini-footer p a {
+    color:#5867dd;
+}
+.mini-footer p a:hover {
+color:#34bfa3
+}
+
+.copyright-text{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: flex-end;
+    margin-right: 10px;
+}
+
+.copyright-text .footer-items{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
