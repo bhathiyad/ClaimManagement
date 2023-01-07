@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ClaimManagement/static/css/main.1b45218e.css",
+    "main.js": "/ClaimManagement/static/js/main.75b50fd7.js",
+    "index.html": "/ClaimManagement/index.html",
+    "main.1b45218e.css.map": "/ClaimManagement/static/css/main.1b45218e.css.map",
+    "main.75b50fd7.js.map": "/ClaimManagement/static/js/main.75b50fd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b45218e.css",
+    "static/js/main.75b50fd7.js"
+  ]
+}
