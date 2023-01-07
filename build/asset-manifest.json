@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/file-uploader/static/css/main.30f745e8.css",
-    "main.js": "/file-uploader/static/js/main.230ae886.js",
-    "index.html": "/file-uploader/index.html",
-    "main.30f745e8.css.map": "/file-uploader/static/css/main.30f745e8.css.map",
-    "main.230ae886.js.map": "/file-uploader/static/js/main.230ae886.js.map"
+    "main.css": "/ClaimManagement/static/css/main.1b45218e.css",
+    "main.js": "/ClaimManagement/static/js/main.75b50fd7.js",
+    "index.html": "/ClaimManagement/index.html",
+    "main.1b45218e.css.map": "/ClaimManagement/static/css/main.1b45218e.css.map",
+    "main.75b50fd7.js.map": "/ClaimManagement/static/js/main.75b50fd7.js.map"
   },
   "entrypoints": [
-    "static/css/main.30f745e8.css",
-    "static/js/main.230ae886.js"
+    "static/css/main.1b45218e.css",
+    "static/js/main.75b50fd7.js"
   ]
 }

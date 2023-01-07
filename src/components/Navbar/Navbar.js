@@ -5,22 +5,22 @@ import './Navbar.css'
 const toggleButton = document.getElementsByClassName('toggle-button')[0]
 const navbarLinks = document.getElementsByClassName('navbar-links')[0]
 
-// toggleButton.addEventListener('click', () => {
-//   navbarLinks.classList.toggle('active')
-// })
+toggleButton.addEventListener('click', () => {
+  navbarLinks.classList.toggle('active')
+})
 
 const Navbar = () => {
   return (
     <div>
       <nav class="navbar">
        <Link to="/home" style={{textDecoration: 'none'}}>
-        <div className="brand-title">Brand Name</div>
+        <div className="brand-title">Claim Management</div>
        </Link>
-        <a href="/" class="toggle-button">
+       <div className="toggle-button">
           <span class="bar"></span>
           <span class="bar"></span>
           <span class="bar"></span>
-        </a>
+       </div >
         <div class="navbar-links">
           <ul>
             <Link to="/home" style={{textDecoration: 'none'}}>
