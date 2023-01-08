@@ -14,7 +14,7 @@ const Navbar = () => {
     <div>
       <nav class="navbar">
        <Link to="/home" style={{textDecoration: 'none'}}>
-        <div className="brand-title">Claim Management</div>
+        <div className="brand-title">Claim</div>
        </Link>
        <div className="toggle-button">
           <span class="bar"></span>
