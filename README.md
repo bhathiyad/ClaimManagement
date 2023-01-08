@@ -1,2 +1,2 @@
 # ClaimManagement
-Claim Management ...
+Claim Management
